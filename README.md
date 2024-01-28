@@ -1,6 +1,6 @@
 # 👋  Welcome to my page
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliastrana&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriktur&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Operating Systems:
 <p align="left">
