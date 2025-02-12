@@ -1,5 +1,5 @@
 # Hey!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eriktur&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriktur&layout=compact)
 
 
 ### 🛠️ Languages and Tools :
